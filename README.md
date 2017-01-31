@@ -8,8 +8,5 @@ The 4DP Simulator uses Microsoft Windows MFC as the platform and renders the mod
 We implemented the position transformation, model information, and collision detection of the model using Parasolid, a geometric kernel used in NX.
 The .csv file that the user uses as the data of the kinetic component is displayed graphically through the Chart Directory.
 
-# How to Install
-Reference to "install guide.pdf"
-
 # Unzip and Decryption
 We will send your name, organization and email to the following email, and you will be given a password to unzip it.
