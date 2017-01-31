@@ -10,3 +10,6 @@ The .csv file that the user uses as the data of the kinetic component is display
 
 # How to Install
 Reference to "install guide.pdf"
+
+# Unzip and Decryption
+We will send your name, organization and email to the following email, and you will be given a password to unzip it.
