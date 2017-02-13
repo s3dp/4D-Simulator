@@ -9,5 +9,5 @@ We implemented the position transformation, model information, and collision det
 The .csv file that the user uses as the data of the kinetic component is displayed graphically through the Chart Directory.
 
 # Unzip and Decryption
-We will send your name, organization and email to the following email, and you will be given a password to unzip it.
+You should send an e-mail including your name and organization to take a password to unzip it.
 hwseo@gist.ac.kr
